@@ -5,7 +5,7 @@ pip install opencv-python
 pip install pytesseract
 pip install translate
 pip install langdetect
-
+```
 
 
 
